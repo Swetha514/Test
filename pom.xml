@@ -3,7 +3,7 @@
 <groupId>com.nexus.test</groupId>
     <artifactId>testing</artifactId>
     <packaging>jar</packaging>
-    <version>${build_number}</version>
+    <version>${project.version}</version>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
