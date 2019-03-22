@@ -1,6 +1,7 @@
 <project>
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.nexus.test</groupId>
+<! -- checking brnach1 -->
     <artifactId>testing</artifactId>
     <packaging>jar</packaging>
     <version>${new.version}-SNAPSHOT</version>
